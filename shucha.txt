@@ -3,6 +3,6 @@ edit by master branch
 edit by master branch[this is hot_fix]
 edit by master branch
 aaa[this is master]
-edit by master branch
+edit by master branch[hot_fix]oooo
 edit by master branch
 edit for hot_fix
